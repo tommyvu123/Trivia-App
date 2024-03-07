@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name ="question_olympics">1. Usain Bolt is the 11-time world champion and holds the record in the 100 and 200-meter race</string>
+    <string name="question_boxing">2. Muhammad Ali was known as "The Greatest" and "People's Champ"</string>
+    <string name="question_planet">3. Venus is the hottest planet in the solar system</string>
+    <string name="question_phone">4. The first model of the iPhone was released in 2007</string>
+    <string name="question_heart">5. The body\'s largest organ is the lungs.</string>
+    <string name="question_nike">6. The company Nike was founded in 1972</string>
+    <string name="question_book">7. The Hunger Games was written by Suzanne Collins</string>
+    <string name="question_president">8. There have been 3 Presidents that have been impeached</string>
+    <string name="question_octopus">9. An octopus has 3 hearts</string>
+    <string name="question_goldfish">10. Goldfish only have a memory of three seconds</string>
+    <string name="question_dolphins">11. Dolphins have larger brains in comparison to humans</string>
+    <string name="question_oxford">12. Oxford University has been around longer than the Aztec Empire</string>
+    <string name="question_broccoli">13. Broccoli was once banned in the White House</string>
+    <string name="question_beer">14. Germany drinks the most beer in the world per person</string>
+    <string name="question_japan">15. Japan has square watermelons</string>
+    <string name="question_golf">16. There are 100 dimples on a golf ball</string>
+    <string name="question_card">17. All the kings in a standard deck of cards have a mustache</string>
+    <string name="question_porcupine">18. Porcupines can float</string>
+    <string name="question_cow">19. Cows sleep standing up</string>
+    <string name="question_olympics2">20. The first Olympic games honored Alexander the Great</string>
+    <string name="question_dog">21. Dalmatians are born with black spots</string>
+    <string name="question_cookie">22. Fortune cookies were invented in China</string>
+    <string name="question_georgia">23. It\’s illegal in Georgia to eat fried chicken with a knife and fork</string>
+    <string name="question_spider">24. Johnny Depp is afraid of spiders</string>
+    <string name="question_lightning">25. Lightning never strikes the same place twice</string>
+    <string name="question_potato">26. The first food grown and eaten in space were potatoes</string>
+    <string name="question_city">27. There\’s a city in Pennsylvania called Intercourse</string>
+    <string name="question_twinkies">28. Twinkies originally had banana filling</string>
+    <string name="question_states">29. In some states, it\’s illegal to eat specific foods while walking backwards</string>
+    <string name="question_ronald">30. Ronald Reagan was a life guard during high school</string>
+
+
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
